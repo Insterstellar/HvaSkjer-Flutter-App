@@ -1,1 +1,1 @@
-print('hello worrld'):kkllx
+print('hello worrld')
