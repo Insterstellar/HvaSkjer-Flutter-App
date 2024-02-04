@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd73246d-501c-4464-963b-6b0330dc2619" name="Changes" comment="initial commit" />
+    <list default="true" id="dd73246d-501c-4464-963b-6b0330dc2619" name="Changes" comment="initial">
+      <change beforePath="$PROJECT_DIR$/lib/components/test_file.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/components/test_file.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +26,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
